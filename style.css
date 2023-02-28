@@ -871,6 +871,7 @@ input[type='checkbox'] {
     background-color: #000000;
 }
 
+
 .ex-header h1 {
     color: #ffffff;
 }
@@ -930,6 +931,13 @@ input[type='checkbox'] {
         padding-bottom: 26rem;
     }
 
+    .ex-basic-1 img{
+        display: flex;
+        padding-left: 6rem;
+        justify-content: center;
+        align-items: center;
+    }
+
     .services {
         position: relative;
         right: 0;
@@ -984,6 +992,9 @@ input[type='checkbox'] {
         background-color: #000000;
         box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
     }
+
+   
+    
     
 }
 
@@ -1019,14 +1030,3 @@ input[type='checkbox'] {
     }
 }
 
-@media only screen and (min-width:770px) {
-    /* .detail {
-    padding-top: 14rem;
-    padding-bottom: 5rem;
-} */
-
-    /* .text-container {
-    margin-top: 4rem;
-
-} */
-}
