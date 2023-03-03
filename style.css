@@ -219,7 +219,7 @@ p {
 
 .header {
     padding-top: 7rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('header-background.jpg') center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://github.com/aniketttt07/Bootstrap5-Project---Spify/blob/main/header-background.jpg') center center no-repeat;
     background-size: cover;
     text-align: center;
 }
